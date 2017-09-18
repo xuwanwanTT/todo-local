@@ -1,0 +1,32 @@
+.App {
+  color: #333;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  background: white;
+  margin: 2em;
+  padding: 0 1em;
+  min-height: 20em;
+  min-width: 32em;
+  box-shadow: 0 0 1em hsla(0,0%,0%,0.15);
+}
+
+.App > .todoList {
+  border-radius: 5px;
+  border: 1px solid #eee;
+  box-shadow: 5px 17px 20px -13px grey, 0px 10px 20px -5px grey;
+  min-height: 65vh;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.App > .todoList > li {
+  margin: 10px 20px 20px 20px;
+}
+
+.App > .todoList > li:nth-child(odd) > .TodoItem {
+  border-bottom: 1px solid red;
+}
+
+.App > .todoList > li:nth-child(even) > .TodoItem {
+  border-bottom: 1px solid green;
+}
