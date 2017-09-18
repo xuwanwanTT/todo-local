@@ -1,3 +1,3 @@
 ### Todo-List
 
-预览， https://xuwanwantt.github.io/todo-list/build/index.html
+预览， https://xuwanwantt.github.io/todo-local/build/index.html
