@@ -14,5 +14,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://xuwanwantt.github.io/todo-list/build"
+  "homepage": "https://xuwanwantt.github.io/todo-local/build"
 }
